@@ -6,11 +6,8 @@ The Bike Sales Dashboard is an interactive Power BI project that provides insigh
 🎯 Project Objectives
 
 Analyze customer demographics (age, gender, income, education).
-
 Track bike purchase patterns across different regions.
-
 Identify the key drivers of purchase decisions (occupation, income level, education).
-
 Provide managers with actionable insights to improve marketing campaigns and sales strategies.
 
 📂 Dataset Description
